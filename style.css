@@ -46,6 +46,13 @@ body {
 
 .imagem-documentos {
     flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.imagem-documentos img {
+   width: 70px; 
 }
 
 .dados-left {
